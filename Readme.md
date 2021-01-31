@@ -2,5 +2,5 @@ My code is a usable solution to show how one would solve a algo that asks to cre
 
 The code uses the class: BST, 
 
-Iniates and defines the nodes of value : none, where self is used as a variable to traverse left and right nodes of bst
+Initiates and defines the nodes of value : none, where self is used as a variable to traverse left and right nodes of bst
 
